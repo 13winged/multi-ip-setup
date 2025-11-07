@@ -225,4 +225,4 @@ curl --interface 10.0.0.1 http://ifconfig.me/
 
 - [Руководство по Linux IP Command](https://linux.die.net/man/8/ip)
 - [Source-Based Routing](https://www.tldp.org/HOWTO/Adv-Routing-HOWTO/lartc.rpdb.html)
-- [Multiple IP Configuration](https://www.kernel.org/doc/Documentation/networking/multi-ip.txt)
+- [Multiple IP Configuration](https://www.kernel.org/doc/Documentation/networking/)
