@@ -225,4 +225,4 @@ If you encounter any issues:
 
 - [Linux IP Command Guide](https://linux.die.net/man/8/ip)
 - [Source-Based Routing](https://www.tldp.org/HOWTO/Adv-Routing-HOWTO/lartc.rpdb.html)
-- [Multiple IP Configuration](https://www.kernel.org/doc/Documentation/networking/multi-ip.txt)
+- [Multiple IP Configuration](https://www.kernel.org/doc/Documentation/networking/)
