@@ -200,14 +200,6 @@ curl --interface 10.0.0.1 http://ifconfig.me/
 - Рассмотрите дополнительные меры безопасности для продакшн использования
 - Мониторьте сетевой трафик при использовании multiple IP
 
-## 🤝 Участие в разработке
-
-1. Форкните репозиторий
-2. Создайте ветку для функции (`git checkout -b feature/amazing-feature`)
-3. Закоммитьте изменения (`git commit -m 'Add amazing feature'`)
-4. Запушьте в ветку (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
-
 ## 📄 Лицензия
 
 Этот проект лицензирован под MIT License - смотрите файл [LICENSE](LICENSE) для деталей.
